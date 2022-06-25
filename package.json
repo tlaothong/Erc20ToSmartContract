@@ -1,0 +1,23 @@
+{
+  "name": "erc20tosmartcontract",
+  "version": "1.0.0",
+  "description": "Example transferring ERC20 to Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlaothong/Erc20ToSmartContract.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlaothong/Erc20ToSmartContract/issues"
+  },
+  "homepage": "https://github.com/tlaothong/Erc20ToSmartContract#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
